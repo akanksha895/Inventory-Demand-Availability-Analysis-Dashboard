@@ -113,11 +113,11 @@ During the development of this project, the following challenges were addressed:
 
 ### Inventory Overview
 
-![Inventory Dashboard](https://github.com/Sameer0166/Inventory-Demand-Availability-Analysis-Dashboard/blob/main/Page1.png)
+![Inventory Dashboard](https://github.com/akanksha895/Inventory-Demand-Availability-Analysis-Dashboard/blob/main/Page1.png)
 
 ### Product Performance
 
-![Product Analysis](https://github.com/Sameer0166/Inventory-Demand-Availability-Analysis-Dashboard/blob/main/Page%202.png)
+![Product Analysis](https://github.com/akanksha895/Inventory-Demand-Availability-Analysis-Dashboard/blob/main/Page%202.png)
 
 ---
 
@@ -149,13 +149,13 @@ Potential enhancements for this project include:
 
 ## Author
 
-**MOHD SAMEER PASHA**
+**CHELIKA AKANKSHA**
 
 B.Tech Computer Science & Engineering
 
 Aspiring Data Analyst | Power BI Developer
 
-GitHub: https://github.com/Sameer0166
+GitHub: https://github.com/akanksha895
 
 ---
 
